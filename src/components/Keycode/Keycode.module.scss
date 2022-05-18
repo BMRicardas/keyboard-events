@@ -1,0 +1,18 @@
+.key-code {
+  max-width: 900px;
+  font-size: 5rem;
+  margin: 1rem;
+  gap: 2rem;
+
+  &__key {
+    text-align: center;
+    font-size: 20rem;
+  }
+
+  &__cards {
+    gap: 1rem;
+    display: grid;
+    grid-template-rows: repeat(2, 1fr);
+    grid-template-columns: repeat(3, 1fr);
+  }
+}

@@ -1,0 +1,10 @@
+.starting-screen {
+  height: 100vh;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  &__text {
+    font-size: 10rem;
+  }
+}
