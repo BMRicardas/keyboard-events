@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/keyboard-events/static/css/main.89dcc799.css",
+    "main.js": "/keyboard-events/static/js/main.27706278.js",
+    "index.html": "/keyboard-events/index.html",
+    "main.89dcc799.css.map": "/keyboard-events/static/css/main.89dcc799.css.map",
+    "main.27706278.js.map": "/keyboard-events/static/js/main.27706278.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89dcc799.css",
+    "static/js/main.27706278.js"
+  ]
+}
