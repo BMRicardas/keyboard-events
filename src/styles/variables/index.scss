@@ -1,2 +1,3 @@
-@import "borders";
-@import "colors";
+@forward "borders";
+@forward "breakpoints";
+@forward "colors";

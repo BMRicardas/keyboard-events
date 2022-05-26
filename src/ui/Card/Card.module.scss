@@ -1,4 +1,4 @@
-@use "../../styles/index.scss" as *;
+@use "../../styles" as *;
 
 .card {
   background-color: #fff;
@@ -38,6 +38,5 @@
 
   &__about {
     background-color: lightgray;
-    // word-break: unset;
   }
 }

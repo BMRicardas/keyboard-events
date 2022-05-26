@@ -1,0 +1,13 @@
+@use "../variables";
+
+@mixin respond-to-lg {
+  @media screen and (max-width: variables.$bp-lg) {
+    @content;
+  }
+}
+
+@mixin respond-to-md {
+  @media screen and (max-width: variables.$bp-md) {
+    @content;
+  }
+}
